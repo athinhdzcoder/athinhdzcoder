@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tuongthinh
+- 👋 Hi, I’m @truongthinh
 - 👀 Mình Là Người Việt Yêu Code🇻🇳
 - 🌱 Ngôn Ngữ Lập Trình Thuần Thạo: CSS,C++,HTML,Python,Java...
 - 💞️ Chạy Theo Code Thay Vì Tình YÊU
